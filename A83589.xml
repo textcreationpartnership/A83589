@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Votes in Parliament for setling of the kingdome, by a King, Lords, and Commons, and the debate of the house, touching propositions to the King, treaties, &amp;c. With the proceedings upon the city petition. Also, a relation of the last fight in Wales, colonell Flemming and many others of the Parliaments forces killed and taken prisoners.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83589</idno><idno type="EEBO-CITATION">99864199</idno>
+  <idno type="VID">116422</idno>
+  <idno type="EEBO-PROQUEST">2240903909</idno>
+  
+            <idno type="STC">Wing E2444</idno>
+            <idno type="STC">Thomason E437_27</idno>
+            <idno type="STC">ESTC R204736</idno>
+            <idno type="PROQUEST">99864199</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864199e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83589)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116422)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E437[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Votes in Parliament for setling of the kingdome, by a King, Lords, and Commons, and the debate of the house, touching propositions to the King, treaties, &amp;c. With the proceedings upon the city petition. Also, a relation of the last fight in Wales, colonell Flemming and many others of the Parliaments forces killed and taken prisoners.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 3, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B.A.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLVIII.[1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Newsbook -- Wing.</note>
+                  <note>The votes and orders are dated 27-29 April 1648.</note>
+                  <note>The letter from Wales is dated at the end: Carmarthen 24. April 1648.</note>
+                  <note>Annotation on Thomason copy: "May 1st".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116422:1"/>
+            <p>VOTES IN PARLIAMENT For setling of the KINGDOME, BY A KING, LORDS, and COMMONS, and the Debate of the House, touching Propositions to the KING, Treaties, &amp;c.</p>
+            <p>With the proceedings upon the City Petition.</p>
+            <p>ALSO, A Relation of the last Fight in Wales, colonell <hi>Flemming</hi> and many others of the Parliaments Forces killed and taken prisoners.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by B. A. MDCXL VIII.</p>
+            <pb facs="tcp:116422:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb n="1" facs="tcp:116422:2"/>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="body_of_petition">
+                        <head>The humble PETITION OF The Lord Major, Aldermen, and Common-coun<g ref="char:EOLhyphen"/>cell of the City of LONDON</head>
+                        <opener>Humbly sheweth,</opener>
+                        <p>
+                           <hi>THat they had lately presented unto them an in<g ref="char:EOLhyphen"/>formation from one</hi> John Everard <hi>whereby hee doth give intimation of some speeches that passed from certain persons at</hi> Windsor, <hi>of an intention to disarme the City, &amp; then to plunder the same, and that divers reports to that effect have been brought unto us by Let<g ref="char:EOLhyphen"/>ters,
+<pb n="2" facs="tcp:116422:3"/> and otherwise from divers parts of this Kingdom, and from forraign parts: which reports, together with the present drawing and continuing of the army so neer the City, he increase of the number of souldiers in the Tower, hath been, now is, and will bee occasion of great fears, and a great decay of trade, and an enhancing of the prizes of victuals within this City: the which fears are much increased by the taking and keeping downe of the chains within the same. And the Petitioners doe humbly conceive, that their danger is increased, and their strength much abated, by the dis-uniting of the command of the Forces of the City, &amp;c. For the remo<g ref="char:EOLhyphen"/>ving of which feares, and obtaining of those things which may conduce to the safety of the Parliament and this City; the Petitioners do humbly pray,</hi>
+                        </p>
+                        <p>That con<gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>der<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>tion may be taken of the infor<g ref="char:EOLhyphen"/>mations given by the said <hi>J. Everard,</hi> and that upon a further examination thereof, such course may bee taken therein, as your Honours shall think fit.</p>
+                        <p>That the Chaines within the City of <hi>London,</hi> which were lately pulled downe, may forth with be repaired, and set up again, and that the Army
+<pb n="3" facs="tcp:116422:3"/> may bee speedily removed to a further distance from the City.</p>
+                        <p>That by an Ordinance of Parliament, Major Generall <hi>Skippon</hi> (who was long since chosen; and still by Act of Common Councell, is continued Major Generall over the Forces of the City) may be appointed to be Major Generall, within the late Lines of Communication, and the Weekely Bils of Mortality; By which meanes, he may the better be inabled to reunite the Forces within the City, and <gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>he said late Lines of Communication, and Weekly Bils of Mortality, for the better De<g ref="char:EOLhyphen"/>fence of the City, and the places adjacent: and like<g ref="char:EOLhyphen"/>wise for the preservation of the Parliament, to whom the City do resolve to adhere, according to the Solemn League and Covenant.</p>
+                        <closer>And your Petitioners shall pray, &amp;c.</closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb facs="tcp:116422:4"/>
+            <p> This Petition was carryed up to the Parliament, the 27. of <hi>April,</hi> 1648. and the House being informed that divers Aldermen were at the door, they were called in, and Alder<g ref="char:EOLhyphen"/>man <hi>Bide</hi> after a short preamble, acquainted the House that he was commanded by the Lord Major, Aldermen, and Commons in Common-councell assembled, to present a Petition to the House: the Petitioners being withdrawne, the petition was read, and it was ordered upon the questi<g ref="char:EOLhyphen"/>on by the Commons in Parliament assembled, that this House doth approve of the desires of the City, concerning Major Gen. <hi>Skippon.</hi>
+            </p>
+            <p>
+               <hi>Resolved, &amp;c.</hi>
+               <lb/> That the desire of the Petitioners concerning the chaines be granted, and that the Committee of the <hi>Militia</hi> doe see it done.</p>
+            <p>A Committee was also appointed to examine the infor<g ref="char:EOLhyphen"/>mation given in by Mr. <hi>Iohn Everard,</hi> the information given in by Mr. <hi>Walker,</hi> a member of this House, and that hee doe name unto the Committee the reporter of it to him, and all other informations, Forrain or other, that concern the same businesse, and the care thereof is more particularly refer<g ref="char:EOLhyphen"/>red to Alderman <hi>Pennington,</hi> and <hi>Mr. Doddridge.</hi>
+            </p>
+            <p>
+               <hi>Resolved &amp;c.</hi>
+               <lb/> That the thanks of this House be returned to the Citizens for their good affections.</p>
+            <p>
+               <hi>Mr. Speaker</hi> is appointed to acquaint the Citizens, that the drawing off part of the Army so neer the City was oc<g ref="char:EOLhyphen"/>casioned by Orders given out in the time of the late tu<g ref="char:EOLhyphen"/>mult; that the house will take that businesse into serious consideration, and doe that therein which may be for the good and safety of the Parliament and city, so far as there<g ref="char:EOLhyphen"/>by they may receive satisfaction.</p>
+            <pb facs="tcp:116422:4"/>
+            <p> The Sheriffs, Aldermen, and Citizens were againe called in, and <hi>Mr. Speaker</hi> by command of the House, acquainted them with the resolutions and proceedings upon the peti<g ref="char:EOLhyphen"/>tion, and did give them the thanks of this House for their very good affections exprest to the Parliament.</p>
+            <closer>
+               <signed>H. Elsing Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_resolutions">
+            <opener>
+               <dateline>
+                  <date>Die Sabbathi 29. April 1648.</date>
+               </dateline>
+            </opener>
+            <p>The Parl. proceed with all care and diligence for setling the Kingdom, and as the first step forward in this great and necessary work, they fell into debate of the manner of Go<g ref="char:EOLhyphen"/>vernment to continue and be established; wherein they thought good not to alter the Monarchical Government of this Kingdom, which they declared to be by King, Lords, &amp; Commons, and it being afterwards put to the question, it was</p>
+            <p>
+               <hi>Resolved, &amp;c.</hi>
+            </p>
+            <p>That the established and setled Government of this king<g ref="char:EOLhyphen"/>dom, shall be by a King, Lords, and Commons. And that no time might be lost in going on with the severall branches, or particulars, which will fall under this one general head, It was ordered that the house should proceed <hi>de die in di<g ref="char:EOLhyphen"/>em,</hi> in this busines of setling the Kingdom. In which respect, that which presented it self first in the next debate, was a<g ref="char:EOLhyphen"/>bout his Majesty, and a way to secure the people and the whole Kingdome from future ruine and destruction, and in relation hereunto, they took in fresh consideration, the Pro<g ref="char:EOLhyphen"/>positions formerly sent, and of Treaties, &amp;c. wherein they made a good progresse, but came not to such a result, as might fit the particulars thereof for the publike view.</p>
+            <p>Letters came out of Wales, with some account of a late encounter between a party of the Parliaments Forces, and <hi>Poyer,</hi> the successe whereof followeth.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb facs="tcp:116422:5"/>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>VPon our advance towards <hi>Pembroke,</hi> we found that the Enemy had possessed the country with fears &amp; jea<g ref="char:EOLhyphen"/>lousies of our Forces, and had cut off all the bridges, whereupon we were forced to find out our way over at a Foard, and after some of our Scouts were over, they met with the Enemies Scouts, who retreated, and after wee had gotten over, part of our men (col. <hi>Horton</hi> being behind) a party of his men, and col <hi>Flemmings</hi> went forth, command<g ref="char:EOLhyphen"/>ed by col. <hi>Flemming</hi> himself, as also other parties went out other wayes to discover the Enemy: this party under the conduct of col. <hi>Flemming</hi> hereby became ingaged with the Enemy, who had gotten into a place of advantage, and laid an ambuscado, so that our men were not able to make good their retreat without some losse, col. <hi>Flemming</hi> charged with much gallantry, but its said, hee was unfortunately slain on the place, so was divers others, yet nothing nigh so many as was reported; neither indeed could there, for it, was but a party, not the Body of our Forces which were inga<g ref="char:EOLhyphen"/>ged.</p>
+                  <closer>
+                     <dateline>Carmarthen <date>24. April 1648.</date>
+                     </dateline>
+                  </closer>
+                  <postscript>
+                     <p>Imprimatur</p>
+                     <closer>
+                        <signed>G. M.</signed>
+                     </closer>
+                  </postscript>
+               </body>
+            </floatingText>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
